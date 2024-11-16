@@ -119,3 +119,6 @@ http://streamsy.online:2999/happy2024/newyear/1193
 
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="USA | CNN" tvg-logo="http://lonewolftvpr.com/logos/cnn.png" group-title="USA",USA | CNN
 http://streamsy.online:2999/happy2024/newyear/191
+
+#EXTINF:-1 tvg-id="RUGBY.za" tvg-name="SuperSport Rugby" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-rugby-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Rugby
+https://xyzdddd.mizhls.ru/lb/premium421/index.m3u8
